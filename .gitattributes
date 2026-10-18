@@ -1,0 +1,4 @@
+# This repository publishes installers only — never sources.
+# The auto-generated "Source code" archives GitHub attaches to every release
+# must therefore stay empty.
+* export-ignore
