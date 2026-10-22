@@ -1,14 +1,14 @@
 {
-  "version": "0.13.0",
-  "tag": "v0.13.0",
-  "published_at": "2026-10-20T22:50:00Z",
-  "notes_url": "https://github.com/KrufterApps/krufter-releases/releases/tag/v0.13.0",
   "assets": {
     "linux_deb": {
-      "name": "krufter_app-0.13.0-linux.deb",
-      "url": "https://github.com/KrufterApps/krufter-releases/releases/download/v0.13.0/krufter_app-0.13.0-linux.deb",
-      "sha256": "4530f1d139634a1f5a7fbf67f25398850a29b7912a5c5c4deb106cd2ee892f7f",
-      "size": 28770782
+      "name": "krufter_app-0.14.0-linux.deb",
+      "sha256": "11ea538409c1888f7d37d1d40391159c426ab0456df544c4f56b5a6956111c84",
+      "size": 28819266,
+      "url": "https://github.com/KrufterApps/krufter-releases/releases/download/v0.14.0/krufter_app-0.14.0-linux.deb"
     }
-  }
+  },
+  "notes_url": "https://github.com/KrufterApps/krufter-releases/releases/tag/v0.14.0",
+  "published_at": "2026-10-22T07:27:53Z",
+  "tag": "v0.14.0",
+  "version": "0.14.0"
 }
