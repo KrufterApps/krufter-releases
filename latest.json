@@ -12,6 +12,12 @@
       "size": 25100761,
       "url": "https://github.com/KrufterApps/krufter-releases/releases/download/v1.0.0-beta/krufter_1.0.0-beta_linux-x86_64.rpm"
     },
+    "macos_arm64": {
+      "name": "krufter_1.0.0-beta_macos-arm64.dmg",
+      "sha256": "d2516a3557bdce7eded53c57d6be40d3e765a7232f50a266d69d8e756b151862",
+      "size": 63710279,
+      "url": "https://github.com/KrufterApps/krufter-releases/releases/download/v1.0.0-beta/krufter_1.0.0-beta_macos-arm64.dmg"
+    },
     "windows_exe": {
       "name": "krufter_app-1.0.0-beta+0-windows-setup.exe",
       "sha256": "377df75f7ec4ec8114c393be8701217945f83463cb90f4af706f78a038825882",
