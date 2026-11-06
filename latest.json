@@ -1,38 +1,38 @@
 {
   "assets": {
     "linux_deb": {
-      "name": "krufter_app-1.0.2+0-linux.deb",
-      "sha256": "d7aae88ce604e9255c33cdf52344bc580a7b21db90de054af95361813c4c4347",
-      "size": 21428402,
-      "url": "https://github.com/KrufterApps/krufter-releases/releases/download/v1.0.2/krufter_app-1.0.2+0-linux.deb"
+      "name": "krufter_app-1.1.0+0-linux.deb",
+      "sha256": "fe1d2822fb08f4d9f99369e86b4e021ab8d49d3aeaf7e15b73c156fdd18b8492",
+      "size": 21641894,
+      "url": "https://github.com/KrufterApps/krufter-releases/releases/download/v1.1.0/krufter_app-1.1.0+0-linux.deb"
     },
     "linux_rpm": {
-      "name": "krufter_1.0.2_linux-x86_64.rpm",
-      "sha256": "4659a5f835199ffd5fce2ae3566fd9bacac7d9f2bafb0ec073ec7a33e561643e",
-      "size": 21675306,
-      "url": "https://github.com/KrufterApps/krufter-releases/releases/download/v1.0.2/krufter_1.0.2_linux-x86_64.rpm"
+      "name": "krufter_1.1.0_linux-x86_64.rpm",
+      "sha256": "bc6501686e34eeb97293447162236d74cbdc58f551887d1a683af00d05d0cd53",
+      "size": 21876471,
+      "url": "https://github.com/KrufterApps/krufter-releases/releases/download/v1.1.0/krufter_1.1.0_linux-x86_64.rpm"
     },
     "macos_arm64": {
-      "name": "krufter_1.0.2_macos-arm64.dmg",
-      "sha256": "132a79a51bb513e5f7c5c42123e82b17be8964d665e02bcb31e24960b26bfda4",
-      "size": 65672537,
-      "url": "https://github.com/KrufterApps/krufter-releases/releases/download/v1.0.2/krufter_1.0.2_macos-arm64.dmg"
+      "name": "krufter_1.1.0_macos-arm64.dmg",
+      "sha256": "5242ecf5fbbb74fea1dfb0673e0276a32b44f87f50ac609306fdeb51c591421c",
+      "size": 65566533,
+      "url": "https://github.com/KrufterApps/krufter-releases/releases/download/v1.1.0/krufter_1.1.0_macos-arm64.dmg"
     },
     "windows_exe": {
-      "name": "krufter_app-1.0.2+0-windows-setup.exe",
-      "sha256": "3a77959371a902c723b99ff56e00284c0a58ce7231fe2c1f3397e60b98e37b95",
-      "size": 24589470,
-      "url": "https://github.com/KrufterApps/krufter-releases/releases/download/v1.0.2/krufter_app-1.0.2+0-windows-setup.exe"
+      "name": "krufter_app-1.1.0+0-windows-setup.exe",
+      "sha256": "03dd7544b7294bb0c4a9235676d7248743414eab13534fef856c45b6097cf918",
+      "size": 24738135,
+      "url": "https://github.com/KrufterApps/krufter-releases/releases/download/v1.1.0/krufter_app-1.1.0+0-windows-setup.exe"
     },
     "windows_msix": {
-      "name": "krufter_app-1.0.2+0-windows.msix",
-      "sha256": "befc21fe0895d20fee8923add797d82bff0a1e7a564480f914a4f2b46b8c8a0a",
-      "size": 37669708,
-      "url": "https://github.com/KrufterApps/krufter-releases/releases/download/v1.0.2/krufter_app-1.0.2+0-windows.msix"
+      "name": "krufter_app-1.1.0+0-windows.msix",
+      "sha256": "0472c79ddcce95f8c4bb05fc1cac0c807157ee1de48fd5a133de790174e3d98b",
+      "size": 37922844,
+      "url": "https://github.com/KrufterApps/krufter-releases/releases/download/v1.1.0/krufter_app-1.1.0+0-windows.msix"
     }
   },
-  "notes_url": "https://github.com/KrufterApps/krufter-releases/releases/tag/v1.0.2",
-  "published_at": "2026-11-04T12:21:41Z",
-  "tag": "v1.0.2",
-  "version": "1.0.2"
+  "notes_url": "https://github.com/KrufterApps/krufter-releases/releases/tag/v1.1.0",
+  "published_at": "2026-11-06T16:43:22Z",
+  "tag": "v1.1.0",
+  "version": "1.1.0"
 }
